@@ -6,10 +6,15 @@ This project aims to analyze data related to water points in Zambia. The data re
 This analysis focused on factors such as; 
 
 Number of water points in a district
+
 Status (functional & non-functional) of the water points
+
 Type of water source
+
 Technology used to access water
+
 Donors of water access technology
+
 Water points installed in a particular year
 
 Project Approach
