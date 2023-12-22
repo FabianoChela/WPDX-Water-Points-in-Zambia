@@ -1,4 +1,4 @@
-WPDX | Water Points in Zambia Data Analysis
+# WPDX | Water Points in Zambia Data Analysis
 
 Project Scope
 
